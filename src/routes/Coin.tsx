@@ -235,6 +235,9 @@ function Coin() {
           </Switch>
         </>
       )}
+      <button>
+        <Link to="/">뒤로가기</Link>
+      </button>
     </Container>
   );
 }
